@@ -1,4 +1,4 @@
-Introduction
+🧭Introduction
 
 This is our group's PPS project where we made Smart Agriculture Crop Suggestion System that suggests suitable crops to farmers based on soil type, rainfall, and temperature, using arrays, structures, functions, pointers, and file handling.
 
@@ -79,16 +79,32 @@ System Architecture
 You can add this to impress teachers and evaluators:
 
 🔹 Integrate real-time weather API
+
 🔹 Machine learning-based crop prediction
+
 🔹 GUI using GTK or web-based front-end
+
 🔹 Soil nutrient-level analysis
+
 🔹 More crop parameters (water demand, pest risk) 
+
 🔹 Mobile app version
 
 
+
 🚀 How to Run the Project
+
 ✅ 1. Make sure all files are in ONE folder
+
 ✅ 2. Install a C Compiler (if not already installed)
+
+✅ 3. Open Terminal / CMD / VS Code Terminal
+
+✅ 4. Compile All Files Together
+
+✅ 5. Run the Program
+
+✅ 6. (Optional) Save Output to a File
 
 
 
